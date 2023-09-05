@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# House Price Prediction Model
 Developed a robust housing sale price prediction model.
 
 # Features
